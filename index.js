@@ -1,4 +1,4 @@
-$(document).ready(function(){
-$("h1").css("color","red");
-alert("hello");
+$(document).ready(function() {
+  $("h1").addClass("big-title");
+  $("button")
 });
